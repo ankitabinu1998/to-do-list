@@ -1,3 +1,9 @@
+# Git push 403 error
+
+https://stackoverflow.com/questions/7438313/pushing-to-git-returning-error-code-403-fatal-http-request-failed
+use this git remote set-url origin https://yourusername@github.com/user/repo.git
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
